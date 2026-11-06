@@ -12,6 +12,6 @@ A lightweight, interactive Python Telegram bot built with **aiogram** that takes
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 * Python 3.10 or higher
 * A Telegram Bot Token (obtained from [@BotFather](https://t.me/BotFather))
